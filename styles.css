@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.homepage {
+  background-image: url("./images/pic_1.jpg");
+  background-position: center;
+  background-size: cover;
+  font-family: "Source Sans Pro", sans-serif;
+  height: 100vh;
+}
+
+.smile-face-logo {
+  height: 30px;
+}
+
+.smile-face-logo-text {
+  height: 25px;
+}
+
+.homepage header {
+  font-size: 12px;
+}
+
+.btn-primary {
+  background-color: #c271ff;
+  border: none;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+  opacity: 0.9;
+  background-color: #c271ff;
+}
+
+.my-color {
+  color: #c271ff;
+}
+
+.bg-primary {
+  background-color: #c271ff;
+}
+
+.people li img {
+  width: 150px;
+}
+
+.register-button {
+  border-radius: 20px;
+}
+
+.homepage-tittle {
+  font-size: 5rem;
+}
