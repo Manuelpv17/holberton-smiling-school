@@ -80,6 +80,7 @@ p {
   height: 14px;
 }
 
-.free-membership {
+.free-membership,
+footer {
   background-color: #071629;
 }
