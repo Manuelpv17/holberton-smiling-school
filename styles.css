@@ -52,6 +52,10 @@ p {
   background-color: #c271ff;
 }
 
+.my-bg-color {
+  background-color: #c271ff;
+}
+
 .people li img {
   width: 150px;
 }
@@ -62,4 +66,16 @@ p {
 
 .homepage-tittle {
   font-size: 5rem;
+}
+
+.quotes img {
+  width: 150px;
+}
+
+.populars-videos .card img {
+}
+
+.populars-videos .star {
+  width: 14px;
+  height: 14px;
 }
